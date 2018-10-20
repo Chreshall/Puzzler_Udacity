@@ -1,0 +1,5 @@
+	Not So Dark Lit,Can Be darker.
+
+	Looking at object is Difficult.
+
+	Torches can have fire Animation.
